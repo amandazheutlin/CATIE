@@ -1,0 +1,620 @@
+"","nm","meaning","min","Q1","median","mean","Q3","max","NAs","variance","range","Prop_NAs"
+"1","src_subject_id","Subject ID how it's defined in lab/project",1001,1468,1950,1944,2420,2898,0,304092.285331011,1897,0
+"2","truncvis","Truncated Visit Number",0,2,6,8.28,18,20,123,47.739057412475,20,8.4
+"4","panss_general_1","PANSS General score",16,28,34,34.87,41,69,153,87.1826057944558,53,10.5
+"25","panss_negative_1","PANSS Negative score",7,15,19,19.31,23,40,153,40.8451455878407,33,10.5
+"46","panss_positive_1","PANSS Positive score",7,13,17,16.99,21,37,153,32.9771676483442,30,10.5
+"67","pos_p1_1","P1. Delusions",1,2,3,3.033,4,7,153,2.13712504584221,6,10.5
+"88","pos_p2_1","P2. Conceptual Organization",1,2,3,2.682,4,7,153,1.73092876032109,6,10.5
+"109","pos_p3_1","P3. Hallucinatory Behavior",1,1,3,2.846,4,7,153,2.34853351783482,6,10.5
+"130","pos_p4_1","P4. Excitement",1,1,1,1.852,3,6,153,1.03981652569332,5,10.5
+"151","pos_p5_1","P5. Grandiosity",1,1,1,1.87,3,7,153,1.52211967366202,6,10.5
+"172","pos_p6_1","P6. Suspiciousness/Persecution",1,2,3,2.95,4,7,153,1.84553400174113,6,10.5
+"193","pos_p7_1","P7. Hostility",1,1,1,1.76,2,7,153,1.08121219115822,6,10.5
+"214","neg_n1_1","N1. Blunted Affect",1,2,3,2.897,4,7,153,1.78427386519284,6,10.5
+"235","neg_n2_1","N2. Emotional Withdrawl",1,2,3,2.971,4,6,153,1.56670437542693,5,10.5
+"256","neg_n3_1","N3. Poor Rapport",1,1,2,2.296,3,7,153,1.5611869061749,6,10.5
+"277","neg_n4_1","N4. Passive/Apathetic Social Withdrawl",1,2,3,3.003,4,7,153,1.82330829049845,6,10.5
+"298","neg_n5_1","N5. Difficulty in Abstract Thinking",1,2,3,3.423,4,7,153,1.98406975749615,6,10.5
+"319","neg_n6_1","N6. Lack of Spontaneity and Flow of Conversation",1,1,2,2.509,3,7,153,1.91224335683345,6,10.5
+"340","neg_n7_1","N7. Stereotyped Thinking",1,1,2,2.213,3,6,153,1.24530564014477,5,10.5
+"361","gps_g1_1","G1. Somatic Concern",1,1,2,2.203,3,6,154,1.63929183315438,5,10.5
+"382","gps_g2_1","G2. Anxiety",1,2,3,2.675,3,7,154,1.55034177653389,6,10.5
+"403","gps_g3_1","G3. Guilt Feelings",1,1,2,2.182,3,6,153,1.86382929238369,5,10.5
+"424","gps_g4_1","G4. Tension",1,1,2,2.253,3,6,153,1.18772869845607,5,10.5
+"445","gps_g5_1","G5. Mannerisms and Posturing",1,1,1,1.691,2,7,153,0.975545449113092,6,10.5
+"466","gps_g6_1","G6. Depression",1,1,3,2.588,3,7,153,1.9304894366651,6,10.5
+"487","gps_g7_1","G7. Motor Retardation",1,1,2,1.96,3,6,153,1.24283396858241,5,10.5
+"508","gps_g8_1","G8. Uncooperativeness",1,1,1,1.476,2,6,153,0.71302949953777,5,10.5
+"529","gps_g9_1","G9. Unusual Thought Content",1,1,3,2.477,3,7,153,1.50866110272054,6,10.5
+"550","gps_g10_1","G10. Disorientation",1,1,1,1.675,2,5,153,0.828715035425925,4,10.5
+"571","gps_g11_1","G11. Poor Attention",1,1,2,2.076,3,7,153,1.23443737397053,6,10.5
+"592","gps_g12_1","G12. Lack of Judgement and Insight",1,1,3,2.747,4,7,153,1.95381067429356,6,10.5
+"613","gps_g13_1","G13. Disturbance of Volition",1,1,2,2.098,3,5,154,1.26663204895766,4,10.5
+"634","gps_g14_1","G14. Poor Impulse Control",1,1,1,1.77,3,5,154,0.947576466998762,4,10.5
+"655","gps_g15_1","G15. Preoccupation",1,1,2,2.231,3,6,153,1.3680992089948,5,10.5
+"676","gps_g16_1","G16. Active Social Avoidance",1,2,3,2.768,3,7,154,1.82198004494435,6,10.5
+"697","b1_ppos_1","Phase 1 Baseline PANSS Positive Scale Score",7,14,18,18.39,22,38,154,31.3731448721785,31,10.5
+"718","b1_pneg_1","Phase 1 Baseline PANSS Negative Scale Score",7,16,20,20.25,25,41,154,40.6069910169979,34,10.5
+"739","b1_ppsy_1","Phase 1 Baseline PANSS  Psychopathology Score",16,30,37,37,43,70,154,84.7892626427981,54,10.5
+"760","cut_pans_1","Cutpoints for Derived PANSS Total Score",1,2,3,2.583,3,5,153,0.864657674367378,4,10.5
+"781","cut_pos_1","Cutpoints for Derived PANSS Positive Scale",1,1,2,2.011,3,4,153,0.654938773549423,3,10.5
+"802","cut_neg_1","Cutpoints for Derived PANSS Negative Scale",1,2,2,2.311,3,4,153,0.782741299938721,3,10.5
+"823","cut_gen_1","Cutpoints for Derived PANSS General Psyc",1,1,2,2.064,3,4,153,0.823967363858877,3,10.5
+"844","c1_panss_1","Phase 1 CFB PANSS Total",-58,-11,-4,-4.472,2,61,154,149.832913226899,119,10.5
+"865","c1_ppos_1","Phase 1 CFB PANSS Positive Scale Score",-17,-4,-1,-1.398,1,17,154,17.6724931498008,34,10.5
+"886","c1_pneg_1","Phase 1 CFB PANSS Negative Scale Score",-23,-3,-1,-0.9426,2,20,154,20.1143241039001,43,10.5
+"907","c1_ppsy_1","Phase 1 CFB PANSS Psychopathology Scale",-27,-6,-2,-2.133,2,35,154,48.3465140260396,62,10.5
+"962","b1_panss_1","Phase 1 Baseline PANSS Total",31,64,75,75.63,87,133,154,303.069615039341,102,10.5
+"964","cs01_1","1. Patient Version Clinical Global Impre",1,2,3,3.271,4,7,159,2.38824661502986,6,10.9
+"986","cs02a_1","2a. Energy and interest",1,3,4,3.811,5,6,185,2.49446332379105,5,12.7
+"1030","cs02b_1","2b. Social relations",1,2,3,3.316,5,6,186,2.7651897395613,5,12.7
+"1074","cs02c_1","2c. Disturbing and unusual experiences",1,2,4,3.572,5,6,186,3.6112948744668,5,12.7
+"1118","cs02d_1","2d. Confusion and difficulty concentrati",1,2,4,3.776,5,6,186,2.5367603443577,5,12.7
+"1162","cs02e_1","2e. Medication side effects",1,2,3,3.137,5,6,186,2.94183938606562,5,12.7
+"1206","cs02f_1","2f. Productive activities",1,2,3,3.387,5,6,186,2.7958260317844,5,12.7
+"1250","cs03_1","3. Patient reported mental/emo health",1,50,70,64.78,80,100,171,642.438067089419,99,11.7
+"1272","cs04_1","4. Illness info received last 3 months",1,2,3,2.948,4,4,162,1.01275374129941,3,11.1
+"1294","cs05_1","5. Satisfaction w/ providers last 3 mo.",1,3,4,3.379,4,4,160,0.648221116835435,3,11
+"1316","cs06_1","6. Tobacco products (e.g. cigarettes)",0,0,1,0.6552,1,1,152,0.22608618846063,1,10.4
+"1338","cs07_1","Alcohol",0,0,0,0.2936,1,1,152,0.207548626660958,1,10.4
+"1360","cs08_1","8. Marijuana?",0,0,0,0.1284,0,1,152,0.112029088254494,1,10.4
+"1382","cs09_1","Cocaine",0,0,0,0.05887,0,1,152,0.0554453904990536,1,10.4
+"1404","cs10_1","10. Opiates?",0,0,0,0.007645,0,1,152,0.00759261469059803,1,10.4
+"1426","cs11_1","11. PCP?",0,0,0,0.0007645,0,1,152,0.000764525993883792,1,10.4
+"1448","cs12_1","Amphetamines",0,0,0,0.01453,0,1,152,0.0143259419404805,1,10.4
+"1470","cs13_1","13. Other?",0,0,0,0.006116,0,1,152,0.00608345090772107,1,10.4
+"1492","cscigs_1","14. cigs/day in past week",0,0,10,11.78,20,99,180,196.013973318999,99,12.3
+"1514","cs14_1","15. Clinician Drug Use Scale",1,1,1,1.258,1,5,152,0.388809141086925,4,10.4
+"1536","cs15_1","16. Clinician Alcohol Use Scale",1,1,1,1.372,2,5,152,0.412717688101472,4,10.4
+"1558","cs16_1","17. Clinician Global Impressions: Severity",1,3,4,3.765,4,7,160,0.912603778054125,6,11
+"1580","b1_cgis_1","Phase 1 Baseline CGIS",1,3,4,3.959,4,7,154,0.881047684427312,6,10.5
+"1602","b1_resp_1","Phase 1 Baseline CGIS Response",0,0,0,0.2741,1,1,154,0.199130450088891,1,10.5
+"1624","c1_cgis_1","CFB1 in CGIS",-4,-1,0,-0.1975,0,3,164,0.673306639973307,7,11.2
+"1646","cgisresp_1","CGIS Response",0,0,0,0.3815,1,1,160,0.235763605140049,1,11
+"1667","e1_day","Day Discontinued from Phase 1/1A",1,57,152,230.4,494,646,0,38941.9320307585,645,0
+"1668","comp1_1a","Completed Phase 1 and 1A",0,0,0,0.2541,1,1,0,0.189667815260969,1,0
+"1670","comp_s","Completed Study",0,0,0,0.4829,1,1,0,0.249877942294873,1,0
+"1671","es_day","Day Discontinued from Study",1,140.8,484.5,347,512,662,0,40003.650416874,661,0
+"1673","tmdisc1","Number of months between phase start date and end date in Phase 1/1A",0.03571,2.036,5.214,8.149,17.57,23.07,0,49.8428247071779,23.035713713,0
+"1674","censor1","Censored in Phase 1/1A",0,0,0,0.2541,1,1,0,0.189667815260969,1,0
+"1676","dcr_eff1","patient discontinued phase 1/1A due to lack of efficacy",0,0,0,0.2329,0,1,0,0.178767592740383,1,0
+"1677","dcr_tae1","patient discontinued phase 1/1A due to unacceptable side effects",0,0,0,0.1459,0,1,0,0.124691804294553,1,0
+"1678","dcr_pat1","patient discontinued phase 1/1A due to patient/subject advocate's decision",0,0,0,0.3055,1,1,0,0.212307172298534,1,0
+"1679","tmsucc1","Time (months) with Successful Treatment",0,0,1,3.805,6,19,0,31.9251241702423,19,0
+"1680","compeff","Composite Ordinal Effectiveness Outcome",1,2,4,3.326,4,5,0,1.72228304242914,4,0
+"1681","dcr_pgo1","P1 patient discontinued phase due to patient/subject advocate's decision AND the patient went on to the next phase",0,0,0,0.07192,0,1,0,0.0667913846038289,1,0
+"1682","dcr_pst1","1/1A patient discontinued phase due to patient/subject advocate's decision AND the patient terminated the study",0,0,0,0.2336,0,1,0,0.179133296403053,1,0
+"1683","b1_day","Baseline Day - Phase 1/1A",1,1,1,1,1,1,0,0,0,0
+"1684","enddy_1","Number of days from study baseline to end date of phase 1/1A",1,57,146,228.2,492,646,0,39076.7742453548,645,0
+"1685","enddy_s","Number of days from study baseline to end date of study",-2,141.5,489,349,511,662,57,40669.2189479849,664,3.9
+"1686","rtd01","Day of phase discontinuation",1,57,151.5,229.5,492,646,0,38975.630567005,645,0
+"1687","rtd02","Did pt successfully complete the medicat",0,0,0,0.2541,1,1,0,0.189667815260969,1,0
+"1690","rtd05a","Inadequate therapeutic effect",0,0,0,0.2425,0,1,0,0.183802003624175,1,0
+"1693","rtd06a","Unacceptable side effects",0,0,0,0.1658,0,1,0,0.138374003586619,1,0
+"1696","rtd07a","Refusal/failure to take assigned antipsychotics",0,0,0,0.3034,1,1,0,0.21150299980283,1,0
+"1698","rtd08","Patient withdrawn by subject advocate",0,0,0,0.00411,0,1,0,0.00409550545973504,1,0
+"1701","rtd11","CLINICIAN: Which medication do you think was used",1,2,3,30.3,95,99,16,1791.83697158697,98,1.1
+"1702","rtd12","pt: Which medication do you think you were taken",1,95,95,74,95,99,33,1504.15916245598,98,2.3
+"1703","rand1_1a","Randomized in Phase 1/1A",1,1,1,1,1,1,0,0,0,0
+"1704","ittpop_1","Phase 1/1A ITT Population",0,1,1,0.9808,1,1,0,0.0188231759414874,1,0
+"1705","phase1a","""rand in Phase 1a (TD)1=yes,0=no""",0,0,0,0.1582,0,1,0,0.133277155492127,1,0
+"1706","treat11a","Treatment for Phase 1/1A",1,2,3,2.793,4,5,0,1.95170082717568,4,0
+"1707","zpr_cort","Zipras Cohort: random aft ZPR added 1=y",0,0,1,0.6089,1,1,0,0.238303116227102,1,0
+"1708","randreg1","P1 Randomized Dosing Regimen",1,1,2,1.673,2,2,0,0.22012215159567,1,0
+"1709","set1","""Set1(OPQR): excl P1a(TD),Ziprasidone""",0,0,1,0.737,1,1,0,0.193970349366708,1,0
+"1710","set2","""Set2(OQR): excl Perphenazine, Ziprasidone""",0,0,1,0.6945,1,1,0,0.212307172298534,1,0
+"1711","set3","""Set3(ZvsOQR): only ZPRcohort, excl Perph""",0,0,1,0.5055,1,1,0,0.250141305266321,1,0
+"1712","set4","""Set4(ZvsP) ex P1a(TD),only Zcort,ZPR,Perph""",0,0,0,0.2082,0,1,0,0.164976949871839,1,0
+"1713","panss_general","PANSS General score",16,30,37,37.02,43,70,13,86.5930379160012,54,0.9
+"1714","panss_negative","PANSS Negative score",7,16,20,20.17,25,41,13,41.0844490580502,34,0.9
+"1715","panss_positive","PANSS Positive score",7,14,18,18.47,22,38,13,31.7414873716881,31,0.9
+"1716","panss_total","PANSS Total score",31,64,75,75.66,87,140,13,308.18234225244,109,0.9
+"1717","pos_p1","P1. Delusions",1,2,3,3.334,4,7,12,2.10105113647211,6,0.8
+"1718","pos_p2","P2. Conceptual Organization",1,2,3,2.906,4,7,12,1.76173221792468,6,0.8
+"1719","pos_p3","P3. Hallucinatory Behavior",1,2,3,3.176,4.25,7,12,2.43268364343068,6,0.8
+"1720","pos_p4","P4. Excitement",1,1,2,1.967,3,6,13,1.12476330577596,5,0.9
+"1721","pos_p5","P5. Grandiosity",1,1,1,2.07,3,7,13,1.78419795427369,6,0.9
+"1722","pos_p6","P6. Suspiciousness/Persecution",1,2,3,3.226,4,7,13,1.84585267750036,6,0.9
+"1723","pos_p7","P7. Hostility",1,1,1,1.79,2,7,13,1.04988429344444,6,0.9
+"1724","neg_n1","N1. Blunted Affect",1,2,3,3.041,4,7,13,1.96168349453871,6,0.9
+"1725","neg_n2","N2. Emotional Withdrawl",1,2,3,3.12,4,7,13,1.49399482498726,6,0.9
+"1726","neg_n3","N3. Poor Rapport",1,1,2,2.388,3,7,13,1.61376281924447,6,0.9
+"1727","neg_n4","N4. Passive/Apathetic Social Withdrawl",1,2,3,3.169,4,7,13,1.78113251913388,6,0.9
+"1728","neg_n5","N5. Difficulty in Abstract Thinking",1,3,4,3.526,4,7,14,2.0571302770559,6,1
+"1729","neg_n6","N6. Lack of Spontaneity and Flow of Conversation",1,1,3,2.61,4,6,13,2.00580109942735,5,0.9
+"1730","neg_n7","N7. Stereotyped Thinking",1,1,2,2.321,3,7,13,1.42708862042037,6,0.9
+"1731","gps_g1","G1. Somatic Concern",1,1,2,2.302,3,6,13,1.77940815212664,5,0.9
+"1732","gps_g2","G2. Anxiety",1,2,3,2.894,4,7,13,1.56542892673448,6,0.9
+"1733","gps_g3","G3. Guilt Feelings",1,1,2,2.372,4,6,13,1.99997897113406,5,0.9
+"1734","gps_g4","G4. Tension",1,1,2,2.393,3,6,13,1.30238840124223,5,0.9
+"1735","gps_g5","G5. Mannerisms and Posturing",1,1,1,1.742,2,7,13,0.999539276664363,6,0.9
+"1736","gps_g6","G6. Depression",1,1,3,2.78,4,7,13,1.93783867227564,6,0.9
+"1737","gps_g7","G7. Motor Retardation",1,1,2,2.055,3,6,13,1.3102952548364,5,0.9
+"1738","gps_g8","G8. Uncooperativeness",1,1,1,1.5,2,7,13,0.784059354929979,6,0.9
+"1739","gps_g9","G9. Unusual Thought Content",1,2,3,2.697,3,7,13,1.57248506711554,6,0.9
+"1740","gps_g10","G10. Disorientation",1,1,1,1.753,3,5,13,0.929064855890138,4,0.9
+"1741","gps_g11","G11. Poor Attention",1,1,2,2.283,3,6,13,1.36779295360937,5,0.9
+"1742","gps_g12","G12. Lack of Judgement and Insight",1,2,3,2.871,4,7,13,1.88024443189085,6,0.9
+"1743","gps_g13","G13. Disturbance of Volition",1,1,2,2.239,3,7,13,1.39091705928515,6,0.9
+"1744","gps_g14","G14. Poor Impulse Control",1,1,1,1.84,3,6,13,1.03466321793265,5,0.9
+"1745","gps_g15","G15. Preoccupation",1,1,2,2.346,3,6,13,1.45728129262527,5,0.9
+"1746","gps_g16","G16. Active Social Avoidance",1,2,3,2.952,4,7,13,1.83659041791048,6,0.9
+"1747","b1_ppos","Phase 1 Baseline PANSS Positive Scale Score",7,14,18,18.47,22,38,13,31.7414873716881,31,0.9
+"1748","b1_pneg","Phase 1 Baseline PANSS Negative Scale Score",7,16,20,20.17,25,41,13,41.0844490580502,34,0.9
+"1749","b1_ppsy","Phase 1 Baseline PANSS  Psychopathology Score",16,30,37,37.02,43,70,13,86.5930379160012,54,0.9
+"1750","cut_pans","Cutpoints for Derived PANSS Total Score",1,2,3,2.816,3,5,13,0.826487959540462,4,0.9
+"1751","cut_pos","Cutpoints for Derived PANSS Positive Scale",1,2,2,2.205,3,4,13,0.644156221533368,3,0.9
+"1752","cut_neg","Cutpoints for Derived PANSS Negative Scale",1,2,2,2.408,3,4,13,0.792139218739396,3,0.9
+"1753","cut_gen","Cutpoints for Derived PANSS General Psyc",1,2,2,2.251,3,4,13,0.811850912987332,3,0.9
+"1754","b1_panss","Phase 1 Baseline PANSS Total",31,64,75,75.66,87,140,13,308.18234225244,109,0.9
+"1755","othmed0a","Did the patient take any medications",0,1,1,0.9061,1,1,11,0.0851072753546931,1,0.8
+"1756","flag","Baseline Medication Flag",0,1,1,0.8544,1,1,11,0.124499083002566,1,0.8
+"1757","priflag","Prior Baseline Medication Flag",0,0,0,0.04348,0,1,11,0.0416166226279126,1,0.8
+"1758","conflag","Continuous Baseline Medication Flag",0,1,1,0.8454,1,1,11,0.130781754610724,1,0.8
+"1759","postflag","Post-Baseline and in P1 Medication Flag",0,0,0,0.4479,1,1,11,0.24745585639172,1,0.8
+"1760","postflg2","Post-Baseline Medication Flag",0,0,1,0.5721,1,1,11,0.244967952750802,1,0.8
+"1761","any_psy","Any Psychotropic Con Med at Baseline",0,1,1,0.8061,1,1,11,0.156427179727684,1,0.8
+"1762","anyppsy","Any Psychotropic Con Med prior to Baseline",0,0,0,0.03658,0,1,11,0.0352634127556059,1,0.8
+"1763","anycpsy","Any Psychotropic Con Med ongoing at Baseline",0,1,1,0.7916,1,1,11,0.165094807239895,1,0.8
+"1764","anynpsy","Any Psychotropic New in P1 Med at baseline",0,0,0,0.2912,1,1,11,0.206559867921866,1,0.8
+"1765","anypsych","Any Conventional Antipsychotic at baseline",0,0,0,0.1573,0,1,11,0.132682474863594,1,0.8
+"1766","anyppsyc","Any Prior Conv Antipsy at baseline",0,0,0,0.01104,0,1,11,0.0109277116243246,1,0.8
+"1767","anycpsyc","Any Continuous Conv Antipsy at baseline",0,0,0,0.1484,0,1,11,0.126449370684297,1,0.8
+"1768","anynpsyc","Any New in P1 Conv Antipsy at baseline",0,0,0,0.01932,0,1,11,0.018963354418555,1,0.8
+"1769","anypsyat","Any Atypical Antipsychotic at Baseline",0,0,1,0.6135,1,1,11,0.237275469079457,1,0.8
+"1770","anyppsya","Any Prior Atypical Antipsychotic at baseline",0,0,0,0.02415,0,1,11,0.0235874235994342,1,0.8
+"1771","anycpsya","Any Cont Atypical Antipsychotic at baseline",0,0,1,0.5894,1,1,11,0.242179784877359,1,0.8
+"1772","anynpsya","Any New in P1 Atypical Antipsychotic at baseline",0,0,0,0.04141,0,1,11,0.0397206684739714,1,0.8
+"1773","antipsy","Taking antipsychotic medication at baseline",1,1,2,1.88,2,3,13,0.421214875819767,2,0.9
+"1774","antichol","Taking anticholinergic meds at baseline",0,0,0,0.1707,0,1,13,0.14165808784522,1,0.9
+"1775","statin","Statin Use at Baseline",0,0,0,0.1037,0,1,13,0.0929810424773534,1,0.9
+"1776","oth_chol","Other Chol and Trig Reducer Use at baseline",0,0,0,0.02972,0,1,13,0.0288535157874211,1,0.9
+"1777","inc_lit","Patient took at least one LITHIUM at baseline",0,0,0,0.03382,0,1,11,0.032695438652681,1,0.8
+"1778","incc_lit","Incidence flag for patient continuously",0,0,0,0.03382,0,1,11,0.032695438652681,1,0.8
+"1779","incn_lit","Patient newly took in P1 at least 1 LITHIUM",0,0,0,0.007591,0,1,11,0.00753901528583248,1,0.8
+"1780","n_med","Number of medication taking at baseline",0,1,2,2.961,4,16,11,7.12005231270184,16,0.8
+"1781","n_pmed","Number of med previously taking at baseline",0,0,0,0.05107,0,4,11,0.0692132886463898,4,0.8
+"1782","n_cmed","Number of med continuously taking at baseline",0,1,2,2.91,4,16,11,7.09277402209182,16,0.8
+"1783","n_nmed","Number of med newly taken in P1",0,0,0,1.2,2,14,11,3.88256904170908,14,0.8
+"1784","n_psy","Number of Psychotropic med taking at baseline",0,1,1,1.685,2,8,11,1.75863045194056,8,0.8
+"1785","n_psypri","Number of Psychotropic med previously taking at baseline",0,0,0,0.03934,0,2,11,0.0433409972204111,2,0.8
+"1786","n_psycon","Number of Psychotropic meds continuosly taking at baseline",0,1,1,1.646,2,8,11,1.76890806767098,8,0.8
+"1787","n_psynew","Number of New in P1 Psychotropic meds since baseline",0,0,0,0.4776,1,8,11,0.844973100137645,8,0.8
+"1788","RISPERIDONE",NA,0,0,0,0.2547,1,1,11,0.189938574517004,1,0.8
+"1789","QUETIAPINE",NA,0,0,0,0.1097,0,1,11,0.0977574551319447,1,0.8
+"1790","OLANZAPINE",NA,0,0,0,0.2871,1,1,11,0.204812616054509,1,0.8
+"1791","LORAZEPAM",NA,0,0,0,0.1636,0,1,11,0.136903332075083,1,0.8
+"1792","HALOPERIDOL",NA,0,0,0,0.07522,0,1,11,0.0696136409564226,1,0.8
+"1793","CLONAZEPAM",NA,0,0,0,0.1228,0,1,11,0.107827268949056,1,0.8
+"1794","fluoxetine",NA,0,0,0,0.07453,0,1,11,0.0690264575683745,1,0.8
+"1795","sertraline",NA,0,0,0,0.09179,0,1,11,0.0834200763338405,1,0.8
+"1796","valproate",NA,0,0,0,0.1263,0,1,11,0.110420026766412,1,0.8
+"1797","citalopram",NA,0,0,0,0.09179,0,1,11,0.0834200763338405,1,0.8
+"1798","amfebutamone",NA,0,0,0,0.08282,0,1,11,0.0760097457190899,1,0.8
+"1799","ziprasidone",NA,0,0,0,0.0559,0,1,11,0.0528121890120449,1,0.8
+"1800","ALBUMIN",NA,2.4,4.1,4.3,4.261,4.5,5.2,9,0.0935009957460966,2.8,0.6
+"1801","ALKALINE PHOSPHATASE",NA,30,74,90,95.17,109,400,9,1110.69584258181,370,0.6
+"1802","ALT (SGPT)",NA,4,17,25,35.01,40,490,10,1287.30151876443,486,0.7
+"1803","AST (SGOT)",NA,8,18,23,28.78,30,549,10,715.513938744913,541,0.7
+"1804","BASOPHILS",NA,0,0.2,0.3,0.4084,0.5,3,37,0.0976445041428096,3,2.5
+"1805","BICARBONATE",NA,13,23,26,25.49,28,35,9,10.5838788944604,22,0.6
+"1806","BUN",NA,3,10,12,12.73,15,36,9,17.3838323154067,33,0.6
+"1807","CALCIUM",NA,7.5,9.1,9.3,9.339,9.6,11.6,9,0.167582318971458,4.1,0.6
+"1808","CHLORIDE",NA,86,102,105,104.3,107,118,9,12.0870134746548,32,0.6
+"1809","CPK",NA,20,84,123,183.9,206.5,2820,9,41268.1032106276,2800,0.6
+"1810","CREATININE",NA,0.3,0.8,0.9,0.9524,1.1,2.4,9,0.0420133083010528,2.1,0.6
+"1811","EOSINOPHILS",NA,0,1.3,2.2,2.667,3.4,22.4,37,4.23891518977458,22.4,2.5
+"1812","GGT",NA,5,19,29,45.28,45.75,920,10,3978.93696009138,915,0.7
+"1813","GLUCOSE",NA,36,82,90,100.2,102,526,12,1839.90573323737,490,0.8
+"1814","HDL CHOLESTEROL",NA,8,34,41,43.49,50,116,9,182.894257943392,108,0.6
+"1815","HEMATOCRIT",NA,27.7,40.02,43.1,42.76,45.6,55.5,46,17.1970509243827,27.8,3.2
+"1816","HEMOGLOBIN",NA,7.7,13.45,14.5,14.38,15.4,18.8,29,2.17765311557764,11.1,2
+"1818","LYMPHOCYTES",NA,4,23.8,29.4,30.2,36,73,37,83.6433891078158,69,2.5
+"1819","MCH",NA,20,30,31,30.59,32,38,37,4.62035595644391,18,2.5
+"1820","MCHC",NA,30,33,34,33.69,34,35,39,0.732551962018416,5,2.7
+"1821","MCV",NA,65,88,91,90.69,94,111,47,31.1817341601358,46,3.2
+"1822","MONOCYTES",NA,0,5,6.3,6.53,7.85,23,37,5.73856019206269,23,2.5
+"1823","NEUTROPHILS",NA,14,53.55,61,60.08,67.1,86,37,105.365505266602,72,2.5
+"1824","PHOSPHORUS",NA,1.9,3.3,3.7,3.695,4.1,6.4,9,0.356185612775969,4.5,0.6
+"1825","PLATELET COUNT",NA,36,212,252,256.2,292.2,614,76,4381.82963859249,578,5.2
+"1826","POTASSIUM",NA,3.1,4.1,4.3,4.367,4.6,7.7,10,0.134056424168868,4.6,0.7
+"1827","PROLACTIN",NA,1.2,6.7,12.55,20.88,24.8,410,32,748.203194673356,408.8,2.2
+"1828","RBC",NA,2.8,4.4,4.7,4.729,5,7.8,36,0.219240704477801,5,2.5
+"1829","SODIUM",NA,127,140,142,142,144,155,9,9.81165331875757,28,0.6
+"1830","TOTAL BILIRUBIN",NA,0.1,0.3,0.4,0.4468,0.5,6.3,9,0.0992362746262982,6.2,0.6
+"1831","TOTAL CHOLESTEROL",NA,91,166,197,201,226.5,780,9,2512.69131871005,689,0.6
+"1832","TOTAL PROTEIN",NA,5.2,7.2,7.5,7.503,7.8,9.5,9,0.282901143088001,4.3,0.6
+"1833","TRIGLYCERIDES",NA,25,102,160,202.6,252,1900,9,24808.9678357375,1875,0.6
+"1834","TSH",NA,0.03,1.03,1.53,2.161,2.21,106.4,10,26.820732534923,106.4,0.7
+"1835","URIC ACID",NA,1.5,4.9,5.9,5.975,6.9,18.6,9,2.66585280068443,17.1,0.6
+"1836","WBC",NA,1.9,5.5,7,7.301,8.6,21,30,5.84764100280405,19.1,2.1
+"1841","aims_facial1_date1","Facial & Oral - Muscles of Facial Expression - Date 1",0,0,0,0.2362,0,3,8,0.385923168784518,3,0.5
+"1842","aims_facial2_date1","Facial & Oral - Lips and Perioral Area - Date 1",0,0,0,0.2674,0,4,9,0.449826279141615,4,0.6
+"1843","aims_facial3_date1","Facial & Oral - Jaw - Date 1",0,0,0,0.2741,0,4,8,0.481672182004241,4,0.5
+"1844","aims_facial4_date1","Facial & Oral - Tongue - Date 1",0,0,0,0.2968,0,4,8,0.49418706202429,4,0.5
+"1845","aims_extrem5_date1","Extremity - Upper - Date 1",0,0,0,0.2679,0,4,8,0.449885896114203,4,0.5
+"1846","aims_extrem6_date1","Extremity - Lower - Date 1",0,0,0,0.1928,0,4,8,0.323918338829685,4,0.5
+"1847","aims_global8_date1","Global Judgement - Severity of abnormal movements overall - Date 1",0,0,0,0.4959,1,4,8,0.750499797802598,4,0.5
+"1848","aims_global9_date1","Global Judgement - Incapacitation due to abnormal movements - Date 1",0,0,0,0.1351,0,3,9,0.210706528196963,3,0.6
+"1849","aims_global10_date1","Global Judgement - Patient's awareness of abnormal movements - Date 1",0,0,0,0.2984,0,4,9,0.488128520164453,4,0.6
+"1850","aims_dental11_date1","Dental Status - Current problems with teeth and/or dentures - Date 1",0,0,0,0.2014,0,1,10,0.160936674519883,1,0.7
+"1851","aims_dental12_date1","Dental Status - Dentures worn - Date 1",0,0,0,0.1027,0,1,9,0.0922065638441978,1,0.6
+"1852","aims07","""7. Neck, shoulders, hips""",0,0,0,0.09504,0,4,8,0.177039488298181,4,0.5
+"1853","bar01","1. Objective",0,0,0,0.2493,0,3,8,0.319606692828922,3,0.5
+"1854","bar02","2. Subjective awareness of restlessness",0,0,0,0.4883,1,3,8,0.529842153127035,3,0.5
+"1855","bar03","3. Subjective Distress related to restle",0,0,0,0.3119,0,3,11,0.39019575321521,3,0.8
+"1856","brsgca","4. Global clinical assessment of akathis",0,0,0,0.5413,1,5,8,0.781888808516213,5,0.5
+"1857","sa01","1. Gait",0,0,0,0.314,1,4,11,0.349534256812662,4,0.8
+"1858","sa02","2. Arm dropping",0,0,0,0.2534,0,4,8,0.310635963038695,4,0.5
+"1859","sa03","3. Shoulder shaking",0,0,0,0.1709,0,3,9,0.198353573041184,3,0.6
+"1860","sa04","4. Elbow rigidity",0,0,0,0.1894,0,3,8,0.223926028026648,3,0.5
+"1861","sa05","5. Fixation of position or wrist rigidit",0,0,0,0.1233,0,3,8,0.150884352579109,3,0.5
+"1862","sa06","6. Tremor",0,0,0,0.2452,0,4,8,0.278922297342196,4,0.5
+"1863","criteria","Flag Patients meeting AIMS criteria",0,0,0,0.146,0,1,8,0.124773833188093,1,0.5
+"1864","facial","Movement Severity Score-facial and oral",0,0,0,1.075,1,13,9,4.61159438199577,13,0.6
+"1865","extremty","Movement Severity Score-extremity movements",0,0,0,0.4607,0,7,8,1.11561846774239,7,0.5
+"1866","sevscore","Total Movement Severity score",0,0,0,1.63,2,23,8,9.44479583758138,23,0.5
+"1867","brsobj","BRS Obj/Subject Items Score",0,0,0,1.049,2,9,11,2.67093995096637,9,0.8
+"1868","epsmean","EPS Scale Mean Score",0,0,0,0.2161,0.3333,2.667,8,0.104621029940667,2.6666667,0.5
+"1869","b1_score","Movement Severity Score Phase 1/1A BL",0,0,0,1.63,2,23,8,9.44479583758138,23,0.5
+"1870","b1_index","Severity Index Phase 1/1A BL",0,0,0,0.4959,1,4,8,0.750499797802598,4,0.5
+"1871","b1_obj","BRS Obj/Subject Phase 1/1A BL",0,0,0,1.049,2,9,11,2.67093995096637,9,0.8
+"1872","b1_gca","BRS Global Assessment Phase 1/1A BL",0,0,0,0.5413,1,5,8,0.781888808516213,5,0.5
+"1873","b1_eps","EPS Scale Mean Phase 1/1A BL",0,0,0,0.2161,0.3333,2.667,8,0.104621029940667,2.6666667,0.5
+"1884","si2_tep1","Severity Index: TE Value >= 2 in P1",0,0,0,0.1205,0,1,8,0.106070573538151,1,0.5
+"1885","si1_tep1","Severity Index: TE Value >= 1 in P1",0,0,0,0.1784,0,1,8,0.146658142100157,1,0.5
+"1886","gca_tep1","Global Clin Assess: TE Value >= 3 in P1",0,0,0,0.05579,0,1,8,0.0527094451817214,1,0.5
+"1887","eps_tep1","EPS Scale Mean: TE Value >= 1 in P1",0,0,0,0.05441,0,1,8,0.0514829708019358,1,0.5
+"1888","cs01","1. Patient Version Clinical Global Impre",1,2,4,3.531,5,7,16,2.44601361429616,6,1.1
+"1889","cs02a","2a. Energy and interest",1,3,4,3.772,5,6,41,2.54406001166916,5,2.8
+"1890","cs02aa","2aa. Times more important than the least",1,4,10,29.77,50,100,98,1076.0549716726,99,6.7
+"1891","cs02b","2b. Social relations",1,2,3,3.398,5,6,41,2.80961582234256,5,2.8
+"1892","cs02ba","2ba. Times more important than least imp",1,3,10,26.32,50,100,101,1021.01612226785,99,6.9
+"1893","cs02c","2c. Disturbing and unusual experiences",1,2,4,3.535,5,6,39,3.63206034234966,5,2.7
+"1894","cs02ca","2ca. Times more important than least imp",1,2,10,28.67,50,100,100,1200.14230565295,99,6.8
+"1895","cs02d","2d. Confusion and difficulty concentrati",1,3,4,3.806,5,6,40,2.50624026044924,5,2.7
+"1896","cs02da","2da. Times more important than least imp",1,5,14,31.34,53,100,99,1078.31707222198,99,6.8
+"1897","cs02e","2e. Medication side effects",1,2,3,3.094,5,6,40,2.9283685197868,5,2.7
+"1898","cs02ea","2ea. Times more important than least imp",1,1,7,23.06,40,100,98,923.628995696133,99,6.7
+"1899","cs02f","2f. Productive activities",1,2,3,3.408,5,6,40,2.74201183138294,5,2.7
+"1900","cs02fa","2fa. Times more important than least imp",1,3,10,26.85,50,100,96,1014.10974745204,99,6.6
+"1901","cs03","3. Patient reported mental/emo health",1,50,60,60.03,80,100,33,725.776212318824,99,2.3
+"1902","cs04","4. Illness info received last 3 months",1,2,3,2.688,4,4,17,1.16343090129498,3,1.2
+"1903","cs05","5. Satisfaction w/ providers last 3 mo.",1,3,3,3.137,4,4,17,0.904372632527972,3,1.2
+"1904","cs06","6. Tobacco products (e.g. cigarettes)",0,0,1,0.6623,1,1,12,0.22381561012115,1,0.8
+"1905","cs07","Alcohol",0,0,0,0.346,1,1,12,0.226438678614928,1,0.8
+"1906","cs08","8. Marijuana?",0,0,0,0.1706,0,1,12,0.141580312859145,1,0.8
+"1907","cs09","Cocaine",0,0,0,0.08494,0,1,12,0.077782858037395,1,0.8
+"1908","cs10","10. Opiates?",0,0,0,0.01381,0,1,12,0.0136307926095904,1,0.8
+"1909","cs11","11. PCP?",0,0,0,0.002072,0,1,12,0.00206895959252712,1,0.8
+"1910","cs12","Amphetamines",0,0,0,0.02003,0,1,12,0.0196400821665706,1,0.8
+"1911","cs13","13. Other?",0,0,0,0.008978,0,1,12,0.00890344664327414,1,0.8
+"1912","cscigs","14. cigs/day in past week",0,0,10,12.45,20,99,50,207.358057875159,99,3.4
+"1913","cs14","15. Clinician Drug Use Scale",1,1,1,1.363,1,5,12,0.523099802601687,4,0.8
+"1914","cs15","16. Clinician Alcohol Use Scale",1,1,1,1.454,2,5,12,0.507878273585662,4,0.8
+"1915","cs16","17. Clinician Global Impressions: Severity",1,3,4,3.958,4,7,14,0.883340272892169,6,1
+"1916","b1_cgis","Phase 1 Baseline CGIS",1,3,4,3.958,4,7,14,0.883340272892169,6,1
+"1917","b1_resp","Phase 1 Baseline CGIS Response",0,0,0,0.2752,1,1,14,0.199621913691032,1,1
+"1918","c1_cgis","CFB1 in CGIS",0,0,0,0,0,0,14,0,0,1
+"1919","cgisresp","CGIS Response",0,0,0,0.2752,1,1,14,0.199621913691032,1,1
+"1920","drug01","1. good outweighs the bad",1,1,1,1.128,1,2,25,0.111859810767863,1,1.7
+"1921","drug02","""2. I feel weird, like a zombie, on med""",1,1,2,1.729,2,2,23,0.197879170276981,1,1.6
+"1922","drug03","3. I take meds of my own free choice",1,1,1,1.143,1,2,23,0.122392092780727,1,1.6
+"1923","drug04","4. Medications make me feel more relaxed",1,1,1,1.185,1,2,25,0.150671351304069,1,1.7
+"1924","drug05","5. Meds make me feel tired and sluggish",1,1,1,1.463,2,2,23,0.24878703116792,1,1.6
+"1925","drug06","6. I take medications only when I am sic",1,1,2,1.67,2,2,25,0.221123632635011,1,1.7
+"1926","drug07","7. I feel more normal on medication.",1,1,1,1.2,1,2,29,0.160027952480783,1,2
+"1927","drug08","8. It is unnatural for my mind and body",1,1,2,1.606,2,2,25,0.239020502578008,1,1.7
+"1928","drug09","9. My thoughts are clearer on medication",1,1,1,1.17,1,2,28,0.140995572889217,1,1.9
+"1929","drug10","10. Staying on meds prevent me get sick",1,1,1,1.128,1,2,25,0.111859810767863,1,1.7
+"1930","dai_ts","DAI Total Score",-10,3,6,5.03,8,10,25,15.0332716166373,20,1.7
+"1931","calg1","1. Depression",1,1,2,1.851,2,4,11,0.73881301259394,3,0.8
+"1932","calg2","2. Hopelessness",1,1,1,1.582,2,4,11,0.625963228593543,3,0.8
+"1933","calg3","3. Self Depreciation",1,1,1,1.601,2,4,11,0.756518116895249,3,0.8
+"1934","calg4","4. Guilty Ideas of Reference",1,1,1,1.429,2,4,11,0.543409629044988,3,0.8
+"1935","calg5","5. Pathological Guilt",1,1,1,1.52,2,4,11,0.577133591846539,3,0.8
+"1936","calg6","6. Morning Depression",1,1,1,1.432,2,4,11,0.498310894539576,3,0.8
+"1937","calg7","7. Early Wakening",1,1,1,1.44,2,4,12,0.704058597135624,3,0.8
+"1938","calg8","8. Suicide",1,1,1,1.205,1,4,11,0.232129988675749,3,0.8
+"1939","calg9","9. Observed Depression",1,1,1,1.493,2,4,11,0.429687648940592,3,0.8
+"1940","calg_ts","Calgary Total Score",0,1,4,4.553,7,22,11,19.2156154558869,22,0.8
+"1941","b1_calg","Phase 1 Baseline Calgary Total Score",0,1,4,4.553,7,22,11,19.2156154558869,22,0.8
+"1942","interview_age","Age in months at the time of the interview/test/sampling/imaging.",18,32,42,40.54,49,67,2,123.243837752188,49,0.1
+"1943","race","Race of participant",1,3,7,5.404,7,7,2,3.93483660075338,6,0.1
+"1944","exacer","Has patient been hospitalized or required crisis stabilization services in the past three months for any mental health problem?",0,0,0,0.2757,1,1,2,0.19983561690265,1,0.1
+"1945","td","Does the patient now meet Schooler-Kane criteria for probable tardive dyskinesia?",0,0,0,0.1584,0,1,2,0.133425692908649,1,0.1
+"1946","marital2","Marital Stat categorized (married vs not)",0,0,0,0.1139,0,1,2,0.100960972665897,1,0.1
+"1947","sigother","Are you currently living with a significant other?",0,0,0,0.1797,0,1,2,0.147507939063393,1,0.1
+"1948","psysoc_89","Veteran?",1,2,2,1.789,2,2,2,0.166736807220805,1,0.1
+"1949","curreduccompleted","Current grade education level completed",1,1,2.5,2.896,4,9,2,2.70291944757488,8,0.1
+"1950","educ_yrs","Number of Years of Patient's Education",1,11.5,12,11.49,13,21,10,12.6416226410604,20,0.7
+"1951","par_educ","How far did your parents go in school",0,1,2,3.507,6,9,3,11.2501197327038,9,0.2
+"1952","cgi_sev","Clinician Global Impressions: Severity score",1,3,4,3.957,4,7,16,0.883810083256067,6,1.1
+"1953","cgi_cat","Baseline CGI Severity (Normal vs not)",0,0,0,0.005525,0,1,12,0.00549813483412051,1,0.8
+"1954","employ","Patient Employment Status at Baseline",0,3,3,2.733,3,3,2,0.431855391831497,3,0.1
+"1955","employ2","Employment Status (Full time vs not)",0,0,0,0.06741,0,1,21,0.0629078105352485,1,1.4
+"1956","qol01a","Currently live with parent",0,0,0,0.2573,1,1,14,0.191210211201884,1,1
+"1957","qol01b","Currently live with a spouse/girlfriend/boyfriend",0,0,0,0.1632,0,1,14,0.136666235935429,1,1
+"1958","qol01c","Currently live with a sibling",0,0,0,0.11,0,1,14,0.0979353615988744,1,1
+"1959","qol01d","Currently live with a son or daughter",0,0,0,0.0657,0,1,14,0.0614246674994137,1,1
+"1960","qol01e","Currently live with other relatives",0,0,0,0.06224,0,1,14,0.0584071558816351,1,1
+"1961","qol01f","Currently live with other people not related and not friends",0,0,0,0.2227,0,1,14,0.173215217256051,1,1
+"1962","qol01g","Lives alone",0,0,0,0.2434,0,1,14,0.184299367782261,1,1
+"1963","yrs_trt","Years Since First Treatment for Behavioral or Emotional Problem",0,6,15,16.24,24,56,40,122.373646884833,56,2.7
+"1964","yrs_pres","Years Since First Prescribed an Antipsychotic Medication",0,4,13,14.11,22,56,35,116.060100532229,56,2.4
+"1965","anti_beh","Childhood Antisocial Behaviors",0,0,1,1.259,2,6,3,2.34715036164933,6,0.2
+"1966","beh_cat","Categorized Childhood Antisocial Behaviors",1,1,2,1.795,2,4,3,0.752500245122071,3,0.2
+"1967","sitetype","Site Care Setting",1,7,9,8.784,13,14,2,14.1736063448486,13,0.1
+"1968","scrn_dy","Day Screened",-93,-15,-9,-11.33,-5,6,2,94.5703119042172,99,0.1
+"1969","olz_0","Baseline OLZ",0,0,0,0.2647,1,1,2,0.194789262940462,1,0.1
+"1970","quet_0","Baseline QUET",0,0,0,0.09808,0,1,2,0.0885206745167598,1,0.1
+"1971","risp_0","Baseline RISP",0,0,0,0.2257,0,1,2,0.174852869596,1,0.1
+"1972","zip_0","Baseline ZIP",0,0,0,0.04801,0,1,2,0.0457372902020707,1,0.1
+"1973","hal_0","Baseline HAL",0,0,0,0.05761,0,1,2,0.0543311556809612,1,0.1
+"1974","deca_0","Baseline DECA",0,0,0,0.01509,0,1,2,0.0148716804452842,1,0.1
+"1975","per_0","Baseline PER",0,0,0,0.02058,0,1,2,0.0201665861697891,1,0.1
+"1976","othr_0","Baseline Other Antipsychotics",0,0,0,0.0823,0,1,2,0.0755823313590415,1,0.1
+"1977","allothr0","Baseline All Other Antipsychotics",0,0,0,0.214,0,1,2,0.168314734317937,1,0.1
+"1978","none_0","No Baseline Antipsychotic Med",0,0,0,0.2833,1,1,2,0.203165174885351,1,0.1
+"1979","olzi_0","Baseline OLZ Monotherapy",0,0,0,0.2202,0,1,2,0.171809993475516,1,0.1
+"1980","queti_0","Baseline QUET Monotherapy",0,0,0,0.06516,0,1,2,0.060954024514359,1,0.1
+"1981","rispi_0","Baseline RISP Monotherapy",0,0,0,0.1886,0,1,2,0.153144132719109,1,0.1
+"1982","dualmed0","Baseline Combination Meds",0,0,0,0.08573,0,1,2,0.0784373814318653,1,0.1
+"1983","allothi0","Baseline All Other Monotherapy",0,0,0,0.1571,0,1,2,0.132486091928376,1,0.1
+"1984","switch","Baseline Med Switch Status",0,0,2,1.289,2,2,2,0.772433444145994,2,0.1
+"1985","me0a","Significant historical medical diag?",0,1,1,0.869,1,1,2,0.113918145502578,1,0.1
+"2009","medad06_1","Number of capsules prescribed per day",1,2,2,2.227,3,4,189,0.704950531852283,3,12.9
+"2074","medad14_1","Clinical Global Judgment of Medication A",1,1,1,1.311,1,4,191,0.58131697876815,3,13.1
+"2096","capsules_1","Number of Capsules Prescribed/Day Since Last Visit",1,2,2,2.227,3,4,189,0.704950531852283,3,12.9
+"2118","dose1_1","Prescribed Daily Dose in P1 (mg)",1.5,7.5,16,122.8,120,800,189,38196.4867024539,798.5,12.9
+"2143","presreg1_1","P1 Prescribed Dosing Regimen",1,1,2,1.602,2,2,172,0.239683022291718,1,11.8
+"2155","avgcaps1_1","Average number of capsules prescribed/day across phase 1/1A (mg)",1,2,3,2.707,3,4,184,0.825395537525355,3,12.6
+"2162","avgdose1_1","Average prescribed daily dose across phase 1/1a  (mg)",2,8,24,146.4,150.2,800,184,52990.7008636056,798,12.6
+"2169","moddose1_1","Modal prescribed daily dose across phase 1/1a (mg)",2,8,24,148.1,160,800,184,56067.5396613191,798,12.6
+"2176","catcaps1_1","Average Number of Capsiles Prescribed Across P1 (Cat)",1,2,3,2.707,3,4,184,0.825395537525355,3,12.6
+"2226","ecgint","Physician Interpretation",1,1,2,1.779,2,7,29,0.437915683198702,6,2
+"2227","ecghr","ECG HR",41,60,69,70.7,80,117,29,193.249781804499,76,2
+"2228","ecgpr","ECG PR",100,150,160,165.4,180,260,34,416.166281341502,160,2.3
+"2229","ecgqrs","ECG QRS",59,90,90,93.94,100,160,29,85.1930666119345,101,2
+"2230","ecgqt","ECG QT",250,350,370,375.6,400,500,35,1134.65138971023,250,2.4
+"2231","ecgqtc","ECG QTC",261,385,405,403.1,422,473,35,706.713761088114,212,2.4
+"2232","ecgaxis","ECG AXIS",-80,55,75,347.9,80,9999,30,2752253.10923527,10079,2.1
+"2233","crfint","1. ECG Result",0,0,1,0.7305,1,2,24,0.420002814632205,2,1.6
+"2234","base11a_ecg","Ph1/1A Baseline ECG Interpretaion",1,1,2,1.769,2,3,25,0.413660286035018,2,1.7
+"2236","b1_qt","Ph1/1A Baseline ECG QT Length",261,385,405,402.9,422,473,30,700.85065158774,212,2.1
+"2238","Sinus Bradycardia",NA,0,0,0,0.2152,0,1,15,0.169020119046478,1,1
+"2239","0 Sinus Rhythm",NA,0,0,1,0.6498,1,1,15,0.227709457581305,1,1
+"2240","Sinus Arrhythmia",NA,0,0,0,0.1197,0,1,15,0.105462527197615,1,1
+"2241","Late R-Wave Transition",NA,0,0,0,0.09619,0,1,15,0.0870007380498232,1,1
+"2242","none",NA,0,0,0,0,0,0,15,0,0,1
+"2243","R.A.D.",NA,0,0,0,0.06367,0,1,15,0.0596555128487765,1,1
+"2244","Early Repolarisation - 0 Variant",NA,0,0,0,0.2457,0,1,15,0.185446999396141,1,1
+"2245","0",NA,0,1,1,0.9592,1,1,15,0.0391904456095621,1,1
+"2246","Non Specific T Wave Changes",NA,0,0,0,0.11,0,1,15,0.09799480489605,1,1
+"2247","Early R-Wave Transition",NA,0,0,0,0.08512,0,1,15,0.0779294347688562,1,1
+"2248","Prolonged QT Interval",NA,0,0,0,0.07751,0,1,15,0.0715505755830114,1,1
+"2249","Poor R-Wave Progression",NA,0,0,0,0.07059,0,1,15,0.0656509695290859,1,1
+"2256","itaq01","""Have you at any time had mental (nerve, worry) problems that were different from most other people's?""",0,1,2,1.555,2,2,16,0.435597967453923,2,1.1
+"2257","itaq02","Have you at any time needed treatment (hospitalization or outpatient care) for mental problems?",0,1,2,1.656,2,2,18,0.339620062735752,2,1.2
+"2258","itaq03","""Do you now have mental (nerve, worry) problems?""",0,1,2,1.64,2,2,17,0.383226499731354,2,1.2
+"2259","itaq04","Do you now need treatment (hospitalization or outpatient care) for mental problems?",0,2,2,1.699,2,2,16,0.3229090479783,2,1.1
+"2260","itaq05","""Is it possible that in the future you may have mental (nerve, worry) problems?""",0,1,2,1.581,2,2,16,0.362799780389808,2,1.1
+"2261","itaq06","""Will you in the future need continued treatment (outpatient care or, possibly, hospitalization) for mental problems?""",0,1,2,1.593,2,2,17,0.351178341469604,2,1.2
+"2262","itaq07","Have you at any time needed to take medications for mental problems (nerves or worry)?",0,1,2,1.686,2,2,16,0.289161737915201,2,1.1
+"2263","itaq08","Do you now need to take medications for mental problems?",0,1,2,1.677,2,2,17,0.30063158218498,2,1.2
+"2264","itaq09","Will you in the future need to take medications for mental problems?",0,1,2,1.611,2,2,17,0.333493848056955,2,1.2
+"2265","itaq10","Will you take the medications?",0,2,2,1.758,2,2,17,0.190424287511666,2,1.2
+"2266","itaq11","Do the medications do you any good?",0,1,2,1.695,2,2,16,0.249430338072997,2,1.1
+"2267","itaq_ts","ITAQ Total Score",0,15,21,18.15,22,22,18,25.3692780575979,22,1.2
+"2268","mac1a","1. Has anyone thrown something at you?",0,0,0,0.3183,0,98,62,27.2966007272891,98,4.2
+"2270","mac2a","2. Have you thrown something at anyone?",0,0,0,0.1664,0,98,48,13.4754704537196,98,3.3
+"2272","mac3a","""3. Has anyone pushed, grabbed, or shoved you""",0,0,0,0.3505,0,98,82,27.5596983619551,98,5.6
+"2274","mac4a","""4. Have you pushed, grabbed, or shoved anyone""",0,0,0,0.1987,0,97,56,13.4337545918088,97,3.8
+"2276","mac5a","5. Has anyone slapped you?",0,0,0,0.1593,0,97,35,13.2126680465208,97,2.4
+"2278","mac6a","6. Have you slapped anyone?",0,0,0,0.2183,0,98,31,19.8696636107207,98,2.1
+"2280","mac7a","""7. Has anyone kicked, bitten, or choked you""",0,0,0,0.2968,0,98,35,26.638648728563,98,2.4
+"2282","mac8a","""8. Have you kicked, bitten, or choked anyone""",0,0,0,0.1504,0,97,24,13.1062785709433,97,1.6
+"2284","mac9a","""9. Has anyone hit you with a fist or object, or beaten you up""",0,0,0,0.1812,0,97,47,13.3382572590815,97,3.2
+"2286","mac10a","""10. Have you hit anyone with a fist or oobject, or beaten anyone up""",0,0,0,0.1724,0,97,39,13.2582807187955,97,2.7
+"2288","mac11a","11. Been forced to have sex against your will",0,0,0,0.2171,0,98,32,19.8827631963788,98,2.2
+"2290","mac12a","12. Have you tried to force anyone to have sex against their will?",0,0,0,0.1351,0,97,17,13.0323499643888,97,1.2
+"2292","mac13a","13. Has anyone threatened you with a gun or knife or other lethal weapon in their hand?",0,0,0,0.2288,0,98,31,19.8754706921257,98,2.1
+"2294","mac14a","14. Have you threatened anyone with a gun or knife or other lethal weapon in your hand?",0,0,0,0.2122,0,98,18,19.6884560633171,98,1.2
+"2296","mac15a","15. Has anyone used a knife or fired a gun at you?",0,0,0,0.2148,0,98,17,19.6764234628312,98,1.2
+"2298","mac16a","16. Have you used a knife or fired a gun at anyone?",0,0,0,0.1398,0,97,15,13.0178406770888,97,1
+"2300","mac17a","17.Have you done anything else that might be considered violent?",0,0,0,0.3589,0,98,25,32.8341521729623,98,1.7
+"2302","mac18a","""18. Since [reference date], did you physically hurt or injure anyone ¿like give them a bruise, cut, broken bone, knock them out, or something like that?""",0,0,0,0.3031,0,98,15,26.2750941732404,98,1
+"2303","mac19a","""19. Since [reference date], family, spouse, girlfriend, boyfriend you fight with, or physically hurt?""",0,0,0,0.2689,0,97,17,19.5698147736983,97,1.2
+"2304","mac19b","""19. Since [reference date], Friend or acquaintance you fight with, or physically hurt?""",0,0,0,0.2453,0,97,17,19.5583605583606,97,1.2
+"2305","mac19c","""19. Since [reference date], Mental health staff or police officer you fight with, or physically hurt?""",0,0,0,0.2121,0,97,17,19.5402983267061,97,1.2
+"2306","mac19d","""19. Since [reference date], other you fight with, or physically hurt?""",0,0,0,0.3086,0,98,18,26.1968586886322,98,1.2
+"2307","neur1","Is English the patient's first language?",0,1,1,0.9243,1,1,47,0.0700406384262684,1,3.2
+"2308","wrat_read_raw","Reading Raw Score",7,37,44,42.96,50,57,92,73.6863532428975,50,6.3
+"2309","neur2a","WRAT-3 not done at this visit",0,0,0,0.02895,0,1,44,0.0281362919486535,1,3
+"2310","neur3a","Controlled Oral Word Association Test (COWAT) Number of correct words generated in category F",0,7,10,9.77,12,24,65,16.6564816957467,24,4.5
+"2311","neur3b","Controlled Oral Word Association Test (COWAT) Number of correct words generated in category A",0,5,8,7.872,10,21,66,13.4443754950197,21,4.5
+"2312","neur3c","Controlled Oral Word Association Test (COWAT) Number of correct words generated in category S",0,7,10,9.971,13,25,66,18.3480633336801,25,4.5
+"2313","neur4a","Category Instances: Number of correct words generated in category Animals",0,11,14,13.83,17,31,64,23.8432936911401,31,4.4
+"2314","neur4b","Category Instances: Number of correct words generated in category Fruits",2,8,10,10.12,12,21,65,11.372444115333,19,4.5
+"2315","neur4c","Category Instances: Number of correct words generated in category Vegetables",0,6,8,8.575,11,25,64,11.8860949358639,25,4.4
+"2316","neur5","WISC-R Mazes raw score",0,13,18,17.53,22,28,88,36.9493719338314,28,6
+"2317","neur7a","Hopkins Verbal Learning Test: Number of items recalled on trial 1",0,4,5,4.724,6,11,67,3.05215011840813,11,4.6
+"2318","neur7b","Hopkins Verbal Learning Test: Number of items recalled on trial 2",0,5,6,6.453,8,12,68,4.60457570010825,12,4.7
+"2319","neur7c","Hopkins Verbal Learning Test: Number of items recalled on trial 3",0,6,8,7.468,9,12,67,6.05806639932008,12,4.6
+"2320","neur8","Facial Emotion Discrimination Task: Number of faces correctly discriminated",1,23,25,24.54,27,30,72,11.8862512959989,29,4.9
+"2321","neur9","WAIS-R Digit Symbol Test raw score",0,27,36,37.14,46,90,78,182.532680967985,90,5.3
+"2322","neur6","Letter-number Sequencing: Number of correct sequences",0,7,10,10.17,13,23,84,20.0204941860465,23,5.8
+"2323","neur10a","Grooved Pegboard: Number of pegs successfully inserted on  trial 1",0,9,12,11.7,14,22,86,15.4429907840013,22,5.9
+"2324","neur10b","Grooved Pegboard: Number of pegs successfully inserted on  trial 2",0,11,13,13.23,16,25,86,16.2642271251236,25,5.9
+"2334","neur13a","Wisconsin Card Sorting Test (64-P): Number of perseverative errors",0,7,10,13.66,17,62,196,103.158668205097,62,13.4
+"2335","neur13b","Wisconsin Card Sorting Test (64-P): Number of completed categories",0,1,2,2.131,3,6,199,2.54397618418237,6,13.6
+"2337","neur8_c","NEUR8 in Category by grouping score 15",15,23,25,24.63,27,30,72,9.66233385761985,15,4.9
+"2338","wrat3","WRAT-3 Categorized",1,5,5,4.772,5,5,44,0.614361362320577,4,3
+"2339","p_flag","Flag for Patients With Enough Data",0,1,1,0.94,1,1,44,0.0564647341837855,1,3
+"2340","neur5_s","WISCR Mazes Standardized response for NEUR5",-3,-1,0,0.004552,1,2,142,1.1207081897401,5,9.7
+"2341","neur6_s","Letter Number Sequence Standardized response",-2,-1,0,0.04614,1,3,138,1.06448548468187,5,9.5
+"2342","neur7a_s","Standardized response for NEUR7A",-3,0,0,0.06391,1,4,130,1.07416679396007,7,8.9
+"2343","neur7b_s","Standardized response for NEUR7B",-3,-1,0,-0.002256,1,3,130,1.21820408809835,6,8.9
+"2344","neur7c_s","Standardized response for NEUR7C",-3,-1,0,0.001503,1,2,129,1.03909548476752,5,8.8
+"2345","neur9_s","WAISR Digit symbol Standardized response",-3,-1,0,-0.0007541,1,4,134,1.05584848743561,7,9.2
+"2350","mneur34","""Mean of the standardized to baseline responses to NEUR3A, NEUR3B,NEUR3C and NEUR4A, NEUR4B,NEUR4C""",-2,-1,0,0.003005,1,3,129,0.694727803731718,5,8.8
+"2351","mneur10","Mean of the standardized to baseline responses to NEUR10A and NEUR10B",-3,-1,0,0.02269,1,3,138,1.08502589955576,6,9.5
+"2352","mneur13","""Mean of the reversed standardized to baseline response to NEUR13A, and the standardized to baseline response to (NEUR13B + NEUR13C/10)""",-3,-1,0,0.007132,1,2,198,0.822312304650926,5,13.6
+"2353","n_flag","Neuro Comp Score: Complete Data at Test Level",0,1,1,0.8559,1,1,44,0.123399413068216,1,3
+"2354","verbal_s","""Verbal Domain Score Standardized to baseline Mean of (NEUR7A_S, NEUR7B_S, NEUR7C_S)""",-3.34,-0.723,-0.027,-0.003529,0.704,3.026,129,0.999887557621326,6.366,8.8
+"2356","speed_s","""Processing Speed Domain Score Standardized to baseline mean of (MNEUR34, MNEUR10, NEUR9_S)""",-3.369,-0.673,-0.016,-0.0001863,0.6955,3.424,129,1.00559261939183,6.793,8.8
+"2357","reason_s","Reasoning Domain Score Standardized to Baseline Mean of (MNEUR13 and NEUR5_S)",-3.649,-0.6842,0.078,-0.0006992,0.7498,2.209,130,0.997552615274077,5.858,8.9
+"2358","memory_s","""Working Memory Domain Score Standardized to baseline Mean of (NEU12_SR,NEUR6_S)""",-4.135,-0.552,0.145,-0.0007797,0.703,2.288,130,1.00632126896304,6.423,8.9
+"2359","neuro_ss","""Neurocognitive Composite Score Created variable: Standardized to baseline Mean of (VERBAL_S, VIGIL_S, SPEED_S, REASON_S, MEMORY_S)""",-3.283,-0.6465,0.022,-0.001891,0.6785,2.887,129,1.00085725504031,6.17,8.8
+"2360","scid01","1. Schizophrenia Present Ever in Past 5 Years",0,1,1,0.9774,1,1,0,0.0221069976621255,1,0
+"2361","scid02","2. Schizophrenia Present During Past Month",0,1,1,0.9671,1,1,0,0.0318176270104312,1,0
+"2362","scid03","3. Major Depression Present Ever in Past 5 Years",0,0,0,0.2774,1,1,0,0.200585407531899,1,0
+"2363","scid04","4. Major Depression Present During Past Month",0,0,0,0.1082,0,1,0,0.0965739341076173,1,0
+"2364","scid05","5. Alcohol Dependence Present Ever in Past 5 Years",0,0,0,0.1418,0,1,0,0.121762419371497,1,0
+"2365","scid06","6. Alcohol Dependence Present During Past Month",0,0,0,0.04178,0,1,0,0.0400626249917846,1,0
+"2366","scid07","7. Alcohol Abuse Present Ever in Past 5 Years",0,0,0,0.1788,0,1,0,0.14691006224943,1,0
+"2367","scid08","8. Alcohol Abuse Present During Past Month",0,0,0,0.04589,0,1,0,0.0438144910663149,1,0
+"2368","scid09","9. Drug Dependence Present Ever in Past 5 Years",0,0,0,0.1664,0,1,0,0.138831719980846,1,0
+"2369","scid09a","9a. Marijuana Dependence Present Ever in Past 5 Years",0,0,0,0.09041,0,1,0,0.0822931826077159,1,0
+"2370","scid09b","9b. Cocaine Dependence Present Ever in Past 5 Years",0,0,0,0.09041,0,1,0,0.0822931826077159,1,0
+"2371","scid09c","9c. Opiates Dependence Present Ever in Past 5 Years",0,0,0,0.01438,0,1,0,0.0141863915047837,1,0
+"2372","scid09d","9d. PCP Dependence Present Ever in Past 5 Years",0,0,0,0.005479,0,1,0,0.00545316270292094,1,0
+"2373","scid09e","9e. Amphetamines Dependence Present Ever in Past 5 Years",0,0,0,0.02192,0,1,0,0.021452111128846,1,0
+"2374","scid09f","9f. Other Dependence Present Ever in Past 5 Years",0,0,0,0.01986,0,1,0,0.0194818180964631,1,0
+"2375","scid10","10. Drug Dependence Present During Past Month",0,0,0,0.05479,0,1,0,0.0518275794079262,1,0
+"2376","scid10a","10a. Marijuana Dependence Present During Past Month",0,0,0,0.02945,0,1,0,0.0286042231965974,1,0
+"2377","scid10b","10b. Cocaine Dependence Present During Past Month",0,0,0,0.02534,0,1,0,0.0247171547410029,1,0
+"2378","scid10c","10c. Opiates Dependence Present During Past Month",0,0,0,0.00411,0,1,0,0.00409550545973504,1,0
+"2379","scid10d","10d. PCP Dependence Present During Past Month",0,0,0,0.0006849,0,1,0,0.000684931506849315,1,0
+"2380","scid10e","10e. Amphetamines Dependence Present During Past Month",0,0,0,0.00274,0,1,0,0.00273409259485292,1,0
+"2381","scid10f","10f. Other Dependence Present During Past Month",0,0,0,0.005479,0,1,0,0.00545316270292094,1,0
+"2382","scid11","11. Drug Abuse Present Ever in Past 5 Years",0,0,0,0.2041,0,1,0,0.162560207310318,1,0
+"2383","scid11a","11a. Marijuana Abuse Present Ever in Past 5 Years",0,0,0,0.1425,0,1,0,0.122252997455566,1,0
+"2384","scid11b","11b. Cocaine Abuse Present Ever in Past 5 Years",0,0,0,0.1055,0,1,0,0.0944182072539833,1,0
+"2385","scid11c","11c. Opiates Abuse Present Ever in Past 5 Years",0,0,0,0.01507,0,1,0,0.0148516059977278,1,0
+"2386","scid11d","11d. PCP Abuse Present Ever in Past 5 Years",0,0,0,0.01164,0,1,0,0.0115161444787667,1,0
+"2387","scid11e","11e. Amphetamines Abuse Present Ever in Past 5 Years",0,0,0,0.03219,0,1,0,0.0311768240585126,1,0
+"2388","scid11f","11f. Other Abuse Present Ever in Past 5 Years",0,0,0,0.01918,0,1,0,0.0188231759414874,1,0
+"2389","scid12","12. Drug Abuse Present During Past Month",0,0,0,0.07808,0,1,0,0.0720347019444731,1,0
+"2390","scid12a","12a. Marijuana Abuse Present During Past Month",0,0,0,0.05274,0,1,0,0.0499924887566075,1,0
+"2391","scid12b","12b. Cocaine Abuse Present During Past Month",0,0,0,0.02877,0,1,0,0.0279587257175585,1,0
+"2392","scid12c","12c. Opiates Abuse Present During Past Month",0,0,0,0.00137,0,1,0,0.00136892410827457,1,0
+"2393","scid12d","12d. PCP Abuse Present During Past Month",0,0,0,0,0,0,0,0,0,0
+"2394","scid12e","12e. Amphetamines Abuse Present During Past Month",0,0,0,0.007534,0,1,0,0.00748260677701935,1,0
+"2395","scid12f","12f. Other Abuse Present During Past Month",0,0,0,0.00274,0,1,0,0.00273409259485292,1,0
+"2396","scid13","13. OCD Present Ever in Past 5 Years",0,0,0,0.05,0,1,0,0.0475325565455792,1,0
+"2397","scid14","14. OCD Present During Past Month",0,0,0,0.04452,0,1,0,0.0425676246631677,1,0
+"2398","scid15","15. Other Anxiety Disorder Present Ever in Past 5 Years",0,0,0,0.1363,0,1,0,0.117803994103674,1,0
+"2399","scid15a","PTSD Present Ever in Past 5 Years",0,0,0,0.05479,0,1,0,0.0518275794079262,1,0
+"2400","scid15b","Panic disorder Present Ever in Past 5 Years",0,0,0,0.05479,0,1,0,0.0518275794079262,1,0
+"2401","scid15c","Agoraphobic w/o a history of panic disorder Present Ever in Past 5 Years",0,0,0,0.0137,0,1,0,0.0135202381064155,1,0
+"2402","scid15d","Social phobia Present Ever in Past 5 Years",0,0,0,0.04178,0,1,0,0.0400626249917846,1,0
+"2403","scid15e","Specific phobia Present Ever in Past 5 Years",0,0,0,0.02877,0,1,0,0.0279587257175585,1,0
+"2404","scid16","16. Other Anxiety Disorder Present During Past Month",0,0,0,0.1164,0,1,0,0.10295097974781,1,0
+"2405","scid16a","PTSD Present During Past Month",0,0,0,0.04384,0,1,0,0.041942783103458,1,0
+"2406","scid16b","Panic disorder Present During Past Month",0,0,0,0.04452,0,1,0,0.0425676246631677,1,0
+"2407","scid16c","Agoraphobic w/o a history of panic disorder Present During Past Month",0,0,0,0.01164,0,1,0,0.0115161444787667,1,0
+"2408","scid16d","Social phobia Present During Past Month",0,0,0,0.03562,0,1,0,0.0343714497638653,1,0
+"2409","scid16e","Specific phobia Present During Past Month",0,0,0,0.02603,0,1,0,0.0253673467471622,1,0
+"2410","scid17","17. Have you ever been treated by a health care provider for any behavioral or emotional problem?",0,1,1,0.9801,1,1,1,0.0194949093230514,1,0.1
+"2411","scid17a","Age 1st treated for emo/behavioral",0,18,22,23.48,29,60,31,88.6865999023822,60,2.1
+"2412","scid18","18. Have you ever been prescribed an antipsychotic medication?",0,1,1,0.987,1,1,1,0.0128618451670771,1,0.1
+"2413","scid18a","Age at 1st antipsychotic prescription",0,20,24,26.02,30,62,61,76.5638208775735,62,4.2
+"2414","scid19","Number previous hospitalizations lifetime",0,1,4,2.775,4,4,3,2.06741799723955,4,0.2
+"2415","scid20","Number previous hospitalizations past year",0,0,0,0.6781,1,4,3,1.04260410145791,4,0.2
+"2416","scid21","21. Have you ever been treated as an outpatient or hospitalized for drugs or alcohol problems",0,0,0,0.2545,1,1,2,0.189839411082961,1,0.1
+"2417","scid21a","21a. How old were you when you were first treated? (years)",0,0,0,6.918,0,59,11,164.956648517362,59,0.8
+"2418","scid22","22.Has anyone in your family ever had a mental illness or spent time in a mental hospital?",0,0,0,0.4499,1,1,4,0.247656338506854,1,0.3
+"2419","scid22a","22a. How is that person related to you? Parent",0,0,0,0.1836,0,1,0,0.149969485573718,1,0
+"2420","scid22b","22b. How is that person related to you? Sibling",0,0,0,0.161,0,1,0,0.135143699475152,1,0
+"2421","scid22c","22c. How is that person related to you? Son/daughter",0,0,0,0.02123,0,1,0,0.0207962856901424,1,0
+"2422","scid22d","22d. How is that person related to you? Other",0,0,0,0.174,0,1,0,0.143804632559362,1,0
+"2423","scid23","""23. Did you play hooky (skip school) a lot from school (e.g., at least twice in one year) before age 15?""",0,0,0,0.3324,1,1,1,0.222068970704515,1,0.1
+"2424","scid24","24. Did you run away from home overnight more than once before age 15?",0,0,0,0.1638,0,1,1,0.137070789978667,1,0.1
+"2425","scid25","25. Did you ever deliberately destroy someone else¿s property before age 15?",0,0,0,0.1764,0,1,3,0.145376243523121,1,0.2
+"2426","scid26","26. Did you often start physical fights before age 15?",0,0,0,0.2118,0,1,1,0.167048855267574,1,0.1
+"2427","scid27","""27. Before the age of 15, were you ever arrested as a juvenile or sent to juvenile court?""",0,0,0,0.1364,0,1,1,0.117872041564068,1,0.1
+"2428","scid28","""28. Before the age of 15, were you expelled or suspended from school?""",0,0,0,0.2371,0,1,1,0.18103329130669,1,0.1
+"2429","scid29","""29. Before the age of 15, were you ever hit so badly that you had an injury and should have seen (or did see) a doctor?""",0,0,0,0.1989,0,1,2,0.159449721461974,1,0.1
+"2430","scid30","""30. Before the age of 15, were you ever sexually molested or assaulted?""",0,0,0,0.204,0,1,4,0.162485838903365,1,0.3
+"2432","scrn07","7. Has patient been hospitalized",0,0,0,0.2753,1,1,0,0.199665749669036,1,0
+"2433","scrn08","8. Indicate primary clinical diagnosis",1,1,1,1.14,1,7,0,0.355185574657065,6,0
+"2434","scrn09a","9a. Alcohol Dependence",0,0,0,0.09315,0,1,0,0.0845315331386669,1,0
+"2435","scrn09b","Alcohol abuse",0,0,0,0.09589,0,1,0,0.0867548611828331,1,0
+"2436","scrn09c","Drug dependence",0,0,0,0.09178,0,1,0,0.0834142356840396,1,0
+"2437","scrn09d","Drug abuse",0,0,0,0.1301,0,1,0,0.113278939412433,1,0
+"2438","scrn09e","Obsessive compulsive disorder",0,0,0,0.04041,0,1,0,0.0388044917235487,1,0
+"2439","scrn09f","Other anxiety disorder",0,0,0,0.08219,0,1,0,0.0754879960941534,1,0
+"2440","scrn09g","Major depression",0,0,0,0.1507,0,1,0,0.128066699841325,1,0
+"2441","scrn09h","Antisocial personality disorder",0,0,0,0.01164,0,1,0,0.0115161444787667,1,0
+"2442","scrn09i","Other personality disorder",0,0,0,0.0137,0,1,0,0.0135202381064155,1,0
+"2443","scrn09j","Other",0,0,0,0.03836,0,1,0,0.0369102500305144,1,0
+"2444","scrn09k","No Comorbid Conditions",0,0,1,0.5548,1,1,0,0.247166852882909,1,0
+"2445","scrn10","10. Does the patient have tardive dyskinesia",0,0,0,0.1582,0,1,0,0.133277155492127,1,0
+"2446","scrn11","11. Is this a monolinngval Spanish speaking patient?",0,0,0,0.01235,0,1,3,0.0122099074569905,1,0.2
+"2447","scrn03","3. Day Screened",-93,-15,-9,-11.32,-5,6,0,94.5141685523017,99,0
+"2448","sf01","""1. In general, would you say your health is""",1,2,3,3.038,4,5,19,1.13812553011026,4,1.3
+"2449","sf02","""2. Moderate activities, such as moving a table, pushing a vacuum cleaner, bowling, or playing golf""",1,2,3,2.621,3,3,20,0.435701876302988,2,1.4
+"2450","sf03","3. Climbing several flights of stairs",1,2,3,2.54,3,3,18,0.492884718483177,2,1.2
+"2451","sf04","4. Accomplished less than you would like",0,0,0,0.3692,1,1,19,0.233049965301874,1,1.3
+"2452","sf05","5. Were limited in the kind of work or other activities",0,0,0,0.3525,1,1,19,0.228411982419616,1,1.3
+"2453","sf06","6. Accomplished less than you would like",0,0,1,0.5458,1,1,18,0.248077165552894,1,1.2
+"2454","sf07","7. Didn't do work or other activities as carefully as usual",0,0,0,0.4764,1,1,20,0.249615859779168,1,1.4
+"2455","sf08","8. During the past 4 weeks how much did pain interfere with your normal work (including both work outside the home and housework)?",1,1,1,1.864,3,5,19,1.39676439972242,4,1.3
+"2456","sf09","9. Have you felt calm and peaceful?",1,2,4,3.362,4,6,19,1.93951827434652,5,1.3
+"2457","sf10","10. Did you have a lot of energy?",1,3,4,3.687,5,6,18,1.94722082927078,5,1.2
+"2458","sf11","11. Have you felt downhearted and blue?",1,3,4,4.225,5,6,18,1.85687095088266,5,1.2
+"2459","sf12","""12. During the past 4 weeks how much of the time has your physical health or emotional problems interfered with your social activities (like visiting with friends, relatives, etc.)?""",1,2,3,3.421,5,5,21,1.70709163854902,4,1.4
+"2460","physical","SF-12 Physical Health Summary",13,42,51,48.21,56,68,26,103.623796912973,55,1.8
+"2461","mental","SF-12 Mental Health Summary",8,32,40,40.93,51,67,26,136.158828899588,59,1.8
+"2462","b1_sfphy","Phase 1 Baseline SF-12 Physical Health",13.43,41.53,51.09,48.21,55.91,68.07,26,103.366102837378,54.63835,1.8
+"2463","b1_sfmtl","Phase 1 Baseline SF-12 Mental Health",7.637,31.79,40.32,40.92,50.87,67.37,26,135.805669928075,59.73463,1.8
+"2464","surfqa","A. Earned income (competitive employment)",0,0,0,0.1707,0,3,19,0.187502891510525,3,1.3
+"2466","surfqb","""B. Vocational program (Comprehensive Employment And Training Act [CETA], vocational rehabilitation Sheltered workshop, Goodwill, compensated work Training, incentive therapy)""",0,0,0,0.05,0,3,20,0.0808895066018068,3,1.4
+"2468","surfqc","C. Social Security Retirement Benefits (SSA)",0,0,0,0.05629,0,3,21,0.107399571445555,3,1.4
+"2470","surfqd","D. Social Security Disability Income (SSDI)",0,0,0,0.3901,1,3,22,0.33412649789054,3,1.5
+"2472","surfqe","E. Supplemental Security Income (SSI)",0,0,0,0.3818,1,3,22,0.382326125650042,3,1.5
+"2474","surfqf","F. VA Compensation (service connected)",0,0,0,0.0916,0,3,19,0.120769720101781,3,1.3
+"2476","surfqg","G. VA Pension (non- service connected)",0,0,0,0.03886,0,3,19,0.0707109260544375,3,1.3
+"2478","surfqh","""H. Other social welfare benefits ¿ state or county (general welfare, Aid to Families with Dependent Children [AFDC])""",0,0,0,0.05829,0,3,19,0.0965995836224844,3,1.3
+"2480","surfqi","Unemployment compensation",0,0,0,0.01667,0,3,20,0.0372480889506602,3,1.4
+"2482","surfqj","""J. Retirement, investment or savings income""",0,0,0,0.03547,0,3,22,0.0592840903481697,3,1.5
+"2484","surfqk","""K. Rent supplements (including HUD, Section 8 Certificates, living programs receiving public Support)""",0,0,0,0.1514,0,3,20,0.261985560960544,3,1.4
+"2486","surfql","L. Food stamps",0,0,0,0.2049,0,3,20,0.217210543587368,3,1.4
+"2488","surfqm","M. How much money did you receive during the past month from all of these sources?",0,200,619,710.3,916.5,6667,18,467818.255064916,6667,1.2
+"2489","surfqn","N. Would you say that the amount of money you received during the past month was more than or less than usual?",1,2,2,4.172,2,98,25,201.070073233906,97,1.7
+"2490","dworked","How many days in the past month have you actually worked for pay?",0,0,0,2.354,0,30,25,34.7448845606209,30,1.7
+"2491","hworked","About how many hours a week did you usually work?",0,0,0,4.339,0,72,33,125.378569582221,72,2.3
+"2492","earnweek","""About how much did you earn per week? (round to dollars, no cents)""",0,0,0,38.04,0,4000,47,25573.1992064781,4000,3.2
+"2493","surfq2","""IB. In addition to the above earnings, during the past month, have you done any casual employment or day jobs, such as yard work or babysitting over a few days for which you got paid?""",0,0,0,0.06185,0,1,21,0.0580636182018691,1,1.4
+"2495","surfq3","""During the past month, have you done any kind of volunteer work (such as working at a hospital or a school)?""",0,0,0,0.0688,0,1,21,0.0641091934303783,1,1.4
+"2498","surfq4a","""In the past month, did your wages include: Health benefits""",0,2,2,1.652,2,2,22,0.540327989756127,2,1.5
+"2499","surfq4b","""In the past month, did your wages include: Retirement benefits (including Social Security)""",0,2,2,1.648,2,2,23,0.548625366604443,2,1.6
+"2500","surfq4c","""In the past month, did your wages include: Paid Sick Leave""",0,2,2,1.642,2,2,23,0.564169588840881,2,1.6
+"2501","surfq4d","""In the past month, did your wages include: Other fringe benefits""",0,2,2,1.636,2,2,23,0.578448989402636,2,1.6
+"2502","surfq4e","""If you did not work in the past month, were you looking for work?""",0,0,0,0.4662,1,2,23,0.611151171874243,2,1.6
+"2503","arrest","""If you had any contacts with the police in the past month, how many resulted in your being picked up or arrested for any criminal activity in the past month?""",0,0,0,0.01949,0,2,23,0.0219041914542639,2,1.6
+"2504","police","""How many times in the past month have you had contact with police other than arrests (e.g., loitering)?""",0,0,0,0.06263,0,15,23,0.253734858485354,15,1.6
+"2505","court","How many times in the past month did you go to court? (Include only court appearances for offenses listed above).",0,0,0,0.02018,0,2,23,0.0239657054021939,2,1.6
+"2506","nitejail","How many nights in the past month did you spend in jail?",0,0,0,0.09116,0,30,23,1.36006807745167,30,1.6
+"2507","parole","Are you currently on probation or parole?",0,0,0,0.06815,0,1,22,0.0635499509776878,1,1.5
+"2510","income","""During the past YEAR approximately how much income before taxes and deductions was received by all family members who live with you, excluding yourself. Please include money from all sources.""",0,1,1,1.754,2,5,133,1.12964749983235,5,9.1
+"2511","support","During the past month how much money did family members provide you for your support?",0,0,0,75.61,0,5000,93,95060.8337919223,5000,6.4
+"2512","priv1a","Which of the following types of health insurance coverage do you have? Private Insurance",0,0,0,0.09116,0,1,23,0.0829093030784112,1,1.6
+"2517","public1b","Which of the following types of health insurance coverage do you have? Public Insurance",0,0,1,0.5369,1,1,24,0.248811060534004,1,1.6
+"2522","medcaid","Which of the following types of health insurance coverage do you have? Medicaid",0,0,0,0.4696,1,1,29,0.249250120948234,1,2
+"2538","insur2gd","Unknown",0,0,1,0.5473,1,1,22,0.247936271962044,1,1.5
+"2539","vital_sysbp","Blood Pressure (sitting for 3 minutes)mmHg (systolic)",82,112,122,124.6,134,190,1,260.455149486043,108,0.1
+"2540","vital_diabp","Blood Pressure (sitting for 3 minutes)mmHg (diastolic)",50,70,80,78.87,86,120,1,118.077320561747,70,0.1
+"2541","bmi","body mass index of subject",16.5,24.68,28.69,29.8,33.61,60.98,14,49.4482726134212,44.483797,1
+"2542","waist","5. Waist",25.5,35,38.5,39.4,43.5,75,23,42.1773376998273,49.5,1.6
+"2543","hips","6. Hips",25,38.5,42,42.54,46,64.44,25,32.2862054298058,39.44,1.7
+"2544","wh_ratio","7. Waist/Hip Ratio",0.67,0.87,0.93,0.9257,0.97,1.39,26,0.00665433807219933,0.72,1.8
+"2545","b1_wt","Phase 1/1A Baseline Weight",101,163,189,195.7,222,413,6,2219.23208350413,312,0.4
+"2548","bmi_cat","Body Mass Index Categorized",1,2,3,3.435,4,6,14,1.59680923870647,5,1
+"2549","heart_rate","heart rate",45,70,78,78.16,86,132,2,162.390147182186,87,0.1
+"2550","height_std","Height - Standard Unit",48,65,68,68.02,71,80,9,15.0961239573184,32,0.6
+"2551","weight_std","Weight - Standard Unit",101,163,189,195.7,222,413,6,2219.23208350413,312,0.4
+"2553","Olanzapine",NA,0,0,0,0.2301,0,1,0,0.177295389035462,1,0
+"2554","Quetiapine",NA,0,0,0,0.2308,0,1,0,0.177664848319829,1,0
